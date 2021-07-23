@@ -1,0 +1,46 @@
+[
+    {
+        "item_id": 1,
+        "matricula": 11,
+        "nombre": "Manuel Orlando",
+        "apaterno": "Ruiz",
+        "amaterno": "Cruz",
+        "edad": 21,
+        "correo": "mruizcruz13@gmail.com",
+        "telefono": 9192234455,
+        "carrera": "RIyC"
+    },
+    {
+        "item_id": 2,
+        "matricula": 22,
+        "nombre": "Orlando2",
+        "apaterno": "Ruiz",
+        "amaterno": "Cruz2",
+        "edad": 21,
+        "correo": "mruizcruz13@gmail.com",
+        "telefono": 9192234455,
+        "carrera": "RIyC"
+    },
+    {
+        "item_id": 3,
+        "matricula": 33,
+        "nombre": "Orlando3",
+        "apaterno": "Ruiz",
+        "amaterno": "Cruz3",
+        "edad": 21,
+        "correo": "mruizcruz13@gmail.com",
+        "telefono": 9192234433,
+        "carrera": "RIyC"
+    },
+    {
+        "item_id": 4,
+        "matricula": 44,
+        "nombre": "Orlando4",
+        "apaterno": "ruiz",
+        "amaterno": "Cruz4",
+        "edad": 21,
+        "correo": "mruizcruz13@gmail.com",
+        "telefono": 91988223344,
+        "carrera": "RIyC"
+    }
+]
